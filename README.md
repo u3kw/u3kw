@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kemorels 🇩🇴
-- 👀 I’m interested in Go, Back-end Development
-- 🌱 I’m currently learning Go
-- 📫 How to reach me @ken.morel.santana@gmail.com
+- 👋 Hi, i’m Ken Morel from The Caribbean 🇩🇴
+- 🪄 Currently learning Go, Blockchain and P2P systems.
+- 📫 You can reach me @ken.morel.santana@gmail.com or @KenMorel4 in Twitter
+
+The future is decentralized.
 
 <!---
 kemorels/kemorels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
