@@ -1,4 +1,5 @@
 A developer from The Caribbean 🇩🇴. 
+Noobie Rustacean 🦀.
 
 <!---
 kemorels/kemorels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
